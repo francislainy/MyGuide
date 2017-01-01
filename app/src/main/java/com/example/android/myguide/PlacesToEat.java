@@ -8,6 +8,6 @@ public class PlacesToEat extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_places_to_eat);
+        setContentView(R.layout.list_view_main_layout);
     }
 }

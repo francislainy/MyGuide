@@ -8,6 +8,6 @@ public class FreeThings extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_free_things);
+        setContentView(R.layout.list_view_main_layout);
     }
 }
