@@ -25,7 +25,7 @@ public class TopAttractions extends AppCompatActivity {
 
         SuggestionAdapter itemsAdapter = new SuggestionAdapter(this, suggestions_list);
 
-        ListView listView = (ListView) findViewById(R.id.list_view_top_attractions);
+        ListView listView = (ListView) findViewById(R.id.list_view_main);
         listView.setAdapter(itemsAdapter);
     }
 
